@@ -1,1 +1,3 @@
 Docker ps --> Çalışan konteynırlar.
+Compose Up --> docker-compose -f docker-compose.yml up -d
+
